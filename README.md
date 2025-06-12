@@ -4,6 +4,8 @@ Face Recognition Folder Security is a cybersecurity-focused project that leverag
 
 
 **Project Overview**
+
+
 This tool restricts access to a local folder by verifying a user’s identity through real-time face recognition. Only the registered face is allowed to unlock the secured folder, providing a simple yet powerful biometric layer of protection.
 
 **Key Features**
