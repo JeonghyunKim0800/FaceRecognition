@@ -41,7 +41,7 @@ pyinstaller (for .exe conversion)
 
 
 
-** Use Cases**
+**Use Cases**
 
 Personal file protection
 
