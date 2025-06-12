@@ -8,6 +8,9 @@ Face Recognition Folder Security is a cybersecurity-focused project that leverag
 
 This tool restricts access to a local folder by verifying a user’s identity through real-time face recognition. Only the registered face is allowed to unlock the secured folder, providing a simple yet powerful biometric layer of protection.
 
+
+
+
 **Key Features**
 
 Cybersecurity Application: Built for real-world privacy and data protection use cases.
@@ -20,6 +23,9 @@ EXE Conversion: Easily compiled into a standalone .exe for Windows deployment.
 
 Offline Mode: Works without internet access, keeping data local and private.
 
+
+
+
 **Technologies Used**
 
 Python 3.10
@@ -31,6 +37,9 @@ face_recognition
 Tkinter (for GUI)
 
 pyinstaller (for .exe conversion)
+
+
+
 
 ** Use Cases**
 
