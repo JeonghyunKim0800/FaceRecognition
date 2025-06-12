@@ -1,8 +1,9 @@
 # FaceRecognition
 
 Face Recognition Folder Security is a cybersecurity-focused project that leverages biometric authentication to protect sensitive data. As my third major project—following sports analytics work such as TennisML—this software demonstrates how machine learning and computer vision can enhance personal and enterprise security.
-**
-Project Overview**
+
+
+**Project Overview**
 This tool restricts access to a local folder by verifying a user’s identity through real-time face recognition. Only the registered face is allowed to unlock the secured folder, providing a simple yet powerful biometric layer of protection.
 
 **Key Features**
